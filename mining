@@ -1,2 +1,2 @@
 #mining pulsar settings ở bên dưới ./cpuminer 
-./cpuminer -a minotaurx -o stratum+tcp://minotaurx.sea.mine.zpool.ca:7019 -u PHNR5GFNd6z3QQG4CzovwLb48JDcQMdE4u -p c=PLSR,zap=PLSR-mino -t 8
+./cpuminer -a minotaurx -o stratum+tcp://minotaurx.sea.mine.zpool.ca:7019 -u PHNR5GFNd6z3QQG4CzovwLb48JDcQMdE4u -p c=PLSR,zap=PLSR-mino -t 8
